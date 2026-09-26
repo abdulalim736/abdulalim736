@@ -3,9 +3,7 @@
 ## A passionate full stack web developer from Bangladesh
 
 
-**abdulalim736/abdulalim736** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### About Me
 
 - 🔭 I’m currently working on Assistant Teacher in Secondary School.
 - 🌱 I’m currently learning Secondary School Teacher.
